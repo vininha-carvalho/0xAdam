@@ -5,7 +5,7 @@
 5+ years in blockchain development. I create secure DeFi solutions on Solana.
 Author of **Solana AlphaBot** - a trading bot with audited code and 15K+ users.  
 
-## 🛠 Технологии  
+## 🛠 Technology  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat&logo=solana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
