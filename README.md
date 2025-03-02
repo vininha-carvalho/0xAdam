@@ -1,4 +1,4 @@
-# 👨💻 OxAdam  
+# 👤💻 OxAdam  
 **Blockchain Developer | Solana & Rust Expert**  
 
 ## 🚀 About me  
